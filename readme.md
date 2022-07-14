@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Peter</h1>
 <h3 align="center">Android Developer</h3>
 
-- 🔭 I’m currently working on [BasicTools](https://github.com/szaszpeter/BasicTools)
+- 🔭 I’m currently working on [BasicTools](https://github.com/szaszpeter/BasicTools) and [CleanArchitecture](https://github.com/szaszpeter/CleanArchitecture)
 
 - 🌱 I’m currently learning **Jetpack Compose, Navigation API, Coroutines, Circle CI, Fastlane, Hilt DI**
 
