@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [BasicTools](https://github.com/szaszpeter/BasicTools) and [CleanArchitecture](https://github.com/szaszpeter/CleanArchitecture)
 
-- 🌱 I’m currently learning **Jetpack Compose, Navigation API, Coroutines, Circle CI, Fastlane, Hilt DI**
+- 🌱 I’m currently learning **Docker, Linux**
 
 - 👨‍💻 All of my projects are available at [https://github.com/szaszpeter?tab=repositories](https://github.com/szaszpeter?tab=repositories)
 
