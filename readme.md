@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Usertesting App](https://play.google.com/store/apps/details?id=com.usertesting.recorder.krsna) and [Userzoom Survey App](https://play.google.com/store/apps/details?id=com.userzoom.uzapp)
 
-- 🌱 I’m currently learning **Docker, Linux**
+- 🌱 I’m currently learning **Docker, Linux, Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/szaszpeter?tab=repositories](https://github.com/szaszpeter?tab=repositories)
 
