@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Swissquote Trading App](https://play.google.com/store/apps/details?id=com.swissquote.android&pcampaignid=web_share)
 
-- 🌱 I’m currently learning **Docker, Linux, Python**
+- 🌱 I’m currently learning **Docker, Linux, Python, Kotlin Flow API**
 
 - 👨‍💻 All of my projects are available at [https://github.com/szaszpeter?tab=repositories](https://github.com/szaszpeter?tab=repositories)
 
