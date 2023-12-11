@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Peter</h1>
 <h3 align="center">Android Developer</h3>
 
-- 🔭 I’m currently working on [Usertesting App](https://play.google.com/store/apps/details?id=com.usertesting.recorder.krsna) and [Userzoom Survey App](https://play.google.com/store/apps/details?id=com.userzoom.uzapp)
+- 🔭 I’m currently working on [Swissquote Trading App]([https://play.google.com/store/apps/details?id=com.usertesting.recorder.krsna](https://play.google.com/store/apps/details?id=com.swissquote.android&pcampaignid=web_share)) 
 
 - 🌱 I’m currently learning **Docker, Linux, Python**
 
