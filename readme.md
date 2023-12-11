@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Android in general**
 
-- 📫 How to reach me **szasz.peter@ymail.com**
+- 📫 How to reach me **szasz.peter@ymail.com** and **szasz.peter.ch@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/peterszasz/](https://www.linkedin.com/in/peterszasz/)
 
